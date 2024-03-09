@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C# Masterclass", "C# Masterclass\C# Masterclass.csproj", "{2E76E1C3-AF19-4EE3-B895-9B330D4C66CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E76E1C3-AF19-4EE3-B895-9B330D4C66CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E76E1C3-AF19-4EE3-B895-9B330D4C66CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E76E1C3-AF19-4EE3-B895-9B330D4C66CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E76E1C3-AF19-4EE3-B895-9B330D4C66CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {428CF53D-46C3-417E-B51B-2E5D1DF0A611}
+	EndGlobalSection
+EndGlobal
